@@ -2,7 +2,6 @@
 # twitter sentiment analysis
 import tweepy
 from textblob import TextBlob
-#French adaptor
 from textblob_fr import PatternTagger, PatternAnalyzer
 
 import numpy as np
